@@ -1,21 +1,13 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: about me
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: About me
+active: true
 author: admin
 ---
+Hi ! I am a Brussels-based Post-doc researcher with expertise in cognitive psychology and health psychology. 
+
+I obtained my Ph.D. in the Center for Research in Cognition and Neurosciences (ULB) supervised by Dr Wim Gevers. I conducted my PhD research on the influence of emotional states and disorders on metacognitive performance using a combination of techniques (EEG, EMG, TMS). More broadly, I am interested in understanding the role of emotions and interoception in metacognition and decision-making. \
+I am currently working as a Post-Doc researcher in the Research Center for the Promotion of Health, Prosocial Behavior and Wellbeing (ULB), headed by Dr Ann DeSmet.
